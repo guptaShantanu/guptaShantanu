@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/⌘_portfolio-live-4f7cff?style=for-the-badge&labelColor=0b1020" alt="Portfolio" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/ask_my_AI-online-4ade80?style=for-the-badge&labelColor=0b1020" alt="Ask my AI" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn" /></a>
+  <a href="https://www.shantanu-gupta.com"><img src="https://img.shields.io/badge/⌘_portfolio-live-4f7cff?style=for-the-badge&labelColor=0b1020" alt="Portfolio" /></a>
+  <a href="https://www.shantanu-gupta.com"><img src="https://img.shields.io/badge/ask_my_AI-online-4ade80?style=for-the-badge&labelColor=0b1020" alt="Ask my AI" /></a>
+  <a href="https://www.linkedin.com/in/shantanu-gupta-183773167/"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn" /></a>
   <a href="mailto:officialshantanugupta08@gmail.com"><img src="https://img.shields.io/badge/email-ping-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1020" alt="Email" /></a>
 </p>
 
@@ -90,7 +90,7 @@ operating_principles:
 | ![](https://img.shields.io/badge/GCP-a78bfa?style=flat-square) | **Glyde Rides** | Vehicle-rental backend: live data + geo + transactions | `Node.js` `TS` `MongoDB` `PostgreSQL` |
 | ![](https://img.shields.io/badge/SOLO-f0abfc?style=flat-square) | **Mr. Klean** | User app, admin portal & delivery app, end to end | `Flutter` `Node.js` |
 
-<sub>→ full case studies, architecture decisions and an AI that answers from my profile: <b><a href="https://YOUR-PORTFOLIO-URL/projects">portfolio/projects</a></b></sub>
+<sub>→ full case studies, architecture decisions and an AI that answers from my profile: <b><a href="https://www.shantanu-gupta.com/projects">portfolio/projects</a></b></sub>
 
 <br/>
 
