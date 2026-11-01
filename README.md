@@ -45,27 +45,6 @@ operating_principles:
 
 <br/>
 
-## `🛰️ ship_pipeline`
-
-```mermaid
-flowchart LR
-    A([💡 Idea]):::io --> B[🎨 Design]:::fe
-    B --> C[📱 Flutter · Next.js]:::fe
-    C --> D[⚙️ Node.js · gRPC]:::be
-    D --> E[(🗄️ Postgres · Mongo · Vectors)]:::db
-    E --> F{{🧠 LLM + RAG + Agents}}:::ai
-    F --> G[🧪 Evals & Guardrails]:::ai
-    G --> H([🚀 Production]):::io
-
-    classDef io fill:#0b1020,stroke:#4ade80,color:#e2e8f0,stroke-width:2px
-    classDef fe fill:#0b1020,stroke:#22d3ee,color:#e2e8f0
-    classDef be fill:#0b1020,stroke:#60a5fa,color:#e2e8f0
-    classDef db fill:#0b1020,stroke:#a78bfa,color:#e2e8f0
-    classDef ai fill:#0b1020,stroke:#f0abfc,color:#e2e8f0
-```
-
-<br/>
-
 ## `🧰 toolchain`
 
 <table>
@@ -112,27 +91,6 @@ flowchart LR
 | ![](https://img.shields.io/badge/SOLO-f0abfc?style=flat-square) | **Mr. Klean** | User app, admin portal & delivery app, end to end | `Flutter` `Node.js` |
 
 <sub>→ full case studies, architecture decisions and an AI that answers from my profile: <b><a href="https://YOUR-PORTFOLIO-URL/projects">portfolio/projects</a></b></sub>
-
-<br/>
-
-## `📡 telemetry`
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guptaShantanu&show_icons=true&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=c084fc&text_color=cbd5e1&ring_color=4f7cff&include_all_commits=true&count_private=true&custom_title=runtime.stats" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaShantanu&layout=compact&hide_border=true&bg_color=0b1020&title_color=7dd3fc&text_color=cbd5e1&langs_count=6&custom_title=languages.compiled" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaShantanu&bg_color=0b1020&color=94a3b8&line=4f7cff&point=c084fc&area=true&area_color=4f7cff&hide_border=true&radius=12&title_color=7dd3fc&custom_title=commit.signal" alt="Contribution activity graph" width="100%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptaShantanu/guptaShantanu/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guptaShantanu/guptaShantanu/output/snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/guptaShantanu/guptaShantanu/output/snake.svg" width="100%" />
-  </picture>
-</p>
 
 <br/>
 
