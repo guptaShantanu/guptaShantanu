@@ -26,7 +26,7 @@ engineer:
 throughput:
   experience: 7+ years
   products_to_production: 10+
-  users_served: 1M+
+  users_served: 10M+
   enterprise_brands: 6+
 
 operating_principles:
